@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![general kenobi](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+[![general kenobi](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)](https://lucasmarino.me)
 
 <!--
 **elementh/elementh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
